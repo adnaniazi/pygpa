@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/calculator.png</file>
+	<file>icons/credit_hours.png</file>
+	<file>icons/gpa_obtained.png</file>
+    <file>icons/subject.png</file>
+    <file>icons/table_pop.png</file>
+    <file>icons/iib-logo.png</file>
+    <file>icons/email.png</file>
+    <file>icons/cc_license.png</file>
+</qresource>
+</RCC>
